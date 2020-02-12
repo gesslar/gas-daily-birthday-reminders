@@ -19,10 +19,10 @@ Throughout these instructions, you may on your screen see your project referred 
     2. Deployment: Head.
     3. Event source: Time-driven.
     4. Time-based trigger type: Day timer (recommended).
-    5. Time of day: MIdnight to 1am (recommended).
+    5. Time of day: Midnight to 1am (recommended).
     6. Failure notifications: Whatever you like.
-    7. Click `Save`.
-    8. Close the triggers window.
+14. Click `Save`.
+15. Close the triggers window.
 
 # Functionality
 This script runs as often as you have specified in the trigger above. It looks through all of your calendars to find any that match the format of "SoAnd So's Birthday" It doesn't matter if it's one or two words, it's basically looking for xxxxxxxxxxxxxxx's birthday.
