@@ -15,14 +15,14 @@ Throughout these instructions, you may on your screen see your project referred 
 11. `Edit` > `Current project's triggers`.
 12. Click `Add Trigger`.
 13. Select the following options:
-14.1. Function: run.
-14.2. Deployment: Head.
-14.3. Event source: Time-driven.
-14.4. Time-based trigger type: Day timer (recommended).
-14.5. Time of day: MIdnight to 1am (recommended).
-14.6. Failure notifications: Whatever you like.
-14.7. Click `Save`.
-14.8. Close the triggers window.
+13.1. Function: run.
+13.2. Deployment: Head.
+13.3. Event source: Time-driven.
+13.4. Time-based trigger type: Day timer (recommended).
+13.5. Time of day: MIdnight to 1am (recommended).
+13.6. Failure notifications: Whatever you like.
+13.7. Click `Save`.
+13.8. Close the triggers window.
 
 # Functionality
 This script runs as often as you have specified in the trigger above. It looks through all of your calendars to find any that match the format of "SoAnd So's Birthday" It doesn't matter if it's one or two words, it's basically looking for xxxxxxxxxxxxxxx's birthday.
