@@ -1,3 +1,5 @@
+[![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
+
 # gas-daily-birthday-reminders
 
 Throughout these instructions, you may on your screen see your project referred to "Untitled project". I'm not sure why it does this, however, it does not appear to be a thing about which to be worried. I will address the project as "Untitled" in the below instructions. However, by some fluke, you may see your project name on the screens. If you do, then you are meant to click that and not look for the word "Untitled."
