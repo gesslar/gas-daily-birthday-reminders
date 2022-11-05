@@ -16,7 +16,7 @@ Throughout these instructions, you may on your screen see your project referred 
 10. CLick `Allow`.
 11. `Edit` > `Current project's triggers`.
 12. Click `Add Trigger`.
-13. Select the following options:
+13. Select the f options:
     1. Function: run.
     2. Deployment: Head.
     3. Event source: Time-driven.
